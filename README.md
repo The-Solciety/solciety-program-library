@@ -1,6 +1,13 @@
 # solciety-program-library
 
-Solana programs under the Solciety ecosystem.
+Solana programs under the Solciety ecosystem. 
+
+Our team would be happy to have chat if you have any questions or feedback, you can reach us via discord or twitter. 
+- Discord: http://discord.gg/thesolciety
+- Twitter: https://twitter.com/TheSolcietyNFT
+- Website: http://thesolciety.gg 
+
+If you decide to leverage our library for your project, we would really appreciated a shout-out on your social media channels.
 
 ## solciety-staking-pool
 
